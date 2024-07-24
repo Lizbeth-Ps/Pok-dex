@@ -1,2 +1,2 @@
-# Pok-dex
+# Pokedex
 Galería de Pokémon utilizando PokeAPI
